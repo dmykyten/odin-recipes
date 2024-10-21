@@ -1,0 +1,41 @@
+body{
+    margin:0;
+}
+
+.container{
+    text-align: center;
+    border: 5px solid;
+    border-radius: 50px;
+    border-color: chocolate;
+    background-color: chocolate;
+    padding: 20px;
+}
+
+#main-heading{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-decoration: underline;
+    background-color: white;
+    
+    display: inline;
+    padding:10px;
+    border: 0px solid;
+    border-radius: 50px;
+}
+
+.recipe-list{
+    list-style: none;
+    padding: 0px;
+}
+
+.recipe-list li a{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+.item-image{
+    height: auto;
+    max-width: 300px;
+}

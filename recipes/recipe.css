@@ -1,0 +1,36 @@
+body{
+    margin:0;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+#recipe-image{
+    height: auto; 
+    max-width:100%;
+}
+
+#recipe-heading{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid;
+    border-radius: 50px
+}
+
+#description{
+    padding: 30px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.container{
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 0px 80px;
+}
+
+.image-container{
+    text-align: center;
+    /*border: 3px solid;*/
+    padding: 10px;
+}
